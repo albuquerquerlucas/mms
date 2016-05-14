@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="<?php echo base_url('assets/site/css/prettyPhoto.css'); ?>" type="text/css" media="screen" />
 
 <!-- Favicons -->
-<link rel="shortcut icon" href="<?php echo base_url('assets/site/images/favicon.png'); ?>" />
+<link rel="shortcut icon" href="<?php echo base_url('assets/developer/imgs/favicon/faveicon.png'); ?>" />
 <link rel="apple-touch-icon" href="<?php echo base_url('assets/site/images/apple-touch-icon.png'); ?>" />
 <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url('assets/site/images/apple-touch-icon-72x72.png'); ?>" />
 <link rel="apple-touch-icon" sizes="114x114" href="<?php echo base_url('assets/site/images/apple-touch-icon-114x114.png'); ?>" />
