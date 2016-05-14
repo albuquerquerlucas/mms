@@ -8,6 +8,7 @@
     <body>
         <h1 align="center">Página de Cadastro</h1><hr/>
         <br/>
+        <p>Teste de integração...</p>
         <a href="<?php echo base_url('welcome'); ?>">voltar...</a>
 
 
