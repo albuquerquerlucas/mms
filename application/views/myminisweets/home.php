@@ -12,7 +12,7 @@
     <body>
         <!-- Cabeçalho da Página -->
         <div id="header">
-            <!-- //<?php //$this->load->view('templates/acesso') ?>//-->
+            <?php $this->load->view('templates/acesso') ?>
             <?php $this->load->view('templates/menu') ?>
         </div>
         <!-- /Cabeçalho da Página -->

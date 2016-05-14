@@ -35,7 +35,7 @@ $config['base_url'] = 'http://localhost:81/mms/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ $config['index_page'] = 'index.php';
 |
 | WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 */
-$config['uri_protocol']	= 'REQUEST_URI';
+$config['uri_protocol']	= 'AUTO';
 
 /*
 |--------------------------------------------------------------------------
@@ -89,7 +89,7 @@ $config['language']	= 'english';
 | See http://php.net/htmlspecialchars for a list of supported charsets.
 |   ISO-8859-1, UTF-8, ISO-8859-5
 */
-$config['charset'] = 'ISO-8859-1';
+$config['charset'] = 'UTF-8';
 
 /*
 |--------------------------------------------------------------------------
